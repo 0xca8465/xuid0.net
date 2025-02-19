@@ -1,1 +1,1 @@
-A littlelink.io repo for xuid0.online
+A littlelink(.io) repo for xuid0(.net)
